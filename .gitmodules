@@ -1,0 +1,3 @@
+[submodule "Dos/slowloris"]
+	path = Dos/slowloris
+	url = https://github.com/gkbrk/slowloris.git
